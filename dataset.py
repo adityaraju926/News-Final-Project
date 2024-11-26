@@ -9,7 +9,7 @@ from huggingface_hub import HfFolder
 def fetch_news_data():
     conn = http.client.HTTPConnection('api.mediastack.com')
     params = urllib.parse.urlencode({
-        'access_key': 'bb66d38fbbaaf6dd61d4916f5433d4dc',
+        'access_key': 'ACCESS_KEY',
         'categories': 'technology',
         'sort': 'published_desc',
         'countries': 'us',
