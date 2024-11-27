@@ -3,6 +3,9 @@
 ## Dataset
 The dataset is hosted on the Hugging Face Datasets Hub and can be accessed using the following link: [Tech News Dataset](https://huggingface.co/datasets/adityaraju26/tech-news-data). More information regarding the code and dataset can be found below.
 
+## Pitch
+[Final Dataset Presentation Pitch](https://drive.google.com/file/d/1ZzWCyE-OdBvWk6slbjajR5n_h4eZjKPL/view?usp=sharing)
+
 ## Program File Definitions
 - **.github/workflows**: Contains the GitHub Actions workflow file for automated dataset updates.
 - **eda**: Contains the exploratory data analysis (EDA) scripts and visualizations along with the respective unit tests.
